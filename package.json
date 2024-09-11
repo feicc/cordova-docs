@@ -27,7 +27,7 @@
     "fs-extra": "^0.11.1",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
-    "gulp-footer": "^1.0.5",
+    "gulp-footer": "^2.1.0",
     "gulp-header": "1.2.2",
     "gulp-less": "^3.0.3",
     "gulp-rename": "^1.2.2",
